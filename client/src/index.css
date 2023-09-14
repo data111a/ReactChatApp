@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Oswald&display=swap');
+
+button{
+  cursor: pointer;
+}
+*{
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+  padding: 0;
+  margin: 0;
+}
